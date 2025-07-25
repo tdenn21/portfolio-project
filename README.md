@@ -15,6 +15,7 @@ It includes a professional introduction, featured projects, and links to my resu
 
 ## Author
 Tracy Dennard (tdenn21)
-## Live Demo
-https://tdenn21.github.io/portfolio-project/
+## Live Demo 
+[Live Demo](https://tdenn21.github.io/portfolio-project/)
+
 
